@@ -11,6 +11,18 @@ Real-Time Color Detection using OpenCV and Pandas is a Python project that is de
 
 **Data Analysis with Pandas**: The application collects and manages color data using Pandas, facilitating further analysis or reporting.
 
+# How It Works
+
+Launch the application by running "color_detection.py".
+
+The webcam captures real-time video.
+
+Using OpenCV, the application identifies colors within the video feed and provides color names and RGB values.
+
+Users can customize color detection thresholds and experiment with different settings.
+
+Color data is collected and managed using Pandas for further analysis.
+
 # Technologies Used
 
 Python 
